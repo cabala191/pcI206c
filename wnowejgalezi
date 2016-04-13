@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(){
+printf("co ja robię tu?");
+printf("uu-uu");
+printf("co ty tutaj robisz?");
+}
