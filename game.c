@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Maciej to lewacki aktywista");
+    printf("Maciej to NIE JEST lewacki aktywista");
     return 0;
 }
